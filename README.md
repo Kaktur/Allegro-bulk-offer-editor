@@ -1,5 +1,5 @@
 # Allegro bulk offer editor
-A library
+A library for Allegro fhat allows for bulk edits to offers on Allegro by writing custom python code that is executed on each selected offer, uses the allegro API.
 
 # Install
 To use you are going to need python and some libraries
@@ -33,6 +33,8 @@ https://pypi.org/project/pip/
 * follow instructions in `example_use.ipynb` to get how to use this library
 
 # Features
+
+* Pick offers to be edited by several methods mentioned in `example_use.ipynb`
 
 * This library allows you to write custom python code that  will be run for each offers, check out  `patterns\example` to se what your script must include
 
